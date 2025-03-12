@@ -1,5 +1,5 @@
 # Casino AI Prevention
-Summary
+Sumário
 
 Este projeto utiliza inteligência artificial para desmotivar as pessoas a jogarem no cassino. Através da análise de padrões de comportamento, alertas personalizados e informações sobre os riscos do jogo, pretende ajudar os utilizadores a tomarem decisões mais conscientes.
 
